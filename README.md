@@ -1,5 +1,7 @@
 # Ruby on Rails sample application
 
+This application includes examples of all the major features of Rails, including models, views, controllers, templates, partials, filters, validations, callbacks, `has_many`/`belongs_to` and `has_many :through` associations, security, testing, and deployment.
+
 ## Getting started
 
 To get started with the app, clone the repo and then install the needed gems:
